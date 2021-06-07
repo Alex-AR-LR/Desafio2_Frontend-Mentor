@@ -187,11 +187,11 @@ body {
 @media screen and (min-width: 1440px) {
   .card-container {
     background: url(../images/bg-pattern-desktop.svg) no-repeat 0/cover;
-    max-width: 60%;
+    max-width: 2000px;
     display: -ms-grid;
     display: grid;
-    -ms-grid-columns: 1.4fr 1fr;
-        grid-template-columns: 1.4fr 1fr;
+    -ms-grid-columns: 60% 1fr;
+        grid-template-columns: 60% 1fr;
     -ms-grid-rows: auto 1fr;
         grid-template-rows: auto 1fr;
     margin: auto;

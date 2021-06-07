@@ -156,9 +156,9 @@ body{
     
     .card-container{
         background: url(../images/bg-pattern-desktop.svg) no-repeat 0/cover;
-        max-width: 60%;
+        max-width: 2000px;
         display: grid;
-        grid-template-columns: 1.4fr 1fr;
+        grid-template-columns: 60% 1fr;
         grid-template-rows: auto 1fr;
         margin: auto;
     }
